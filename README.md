@@ -1,5 +1,5 @@
 ## Management System
-테스트로 만든 고객관리프로그램 프로젝트.
+고객관리프로그램 리액트 스터디 프로젝트.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
