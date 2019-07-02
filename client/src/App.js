@@ -14,14 +14,14 @@ import CircularProgress from '@material-ui/core/CircularProgress';
 const styles = theme => ({
   root: {
     width: '100%',
-    marginTop: theme.spacing.unit * 3,
+    marginTop: theme.spacing(3),
     overFlowX: "auto"
   },
   table: {
     minWidth: 1080
   },
   progress: {
-    margin: theme.spacing.unit *2
+    margin: theme.spacing(2)
   }
 });
 
